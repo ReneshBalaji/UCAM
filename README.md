@@ -52,6 +52,6 @@ This project is currently completed. However, suggestions for improvements or bu
 
 ## 📬 Contact
 
-**Developer:** \[Your Name]
-🔗 \[Your GitHub Profile (if applicable)]
-📧 \[Your Email Address]
+**Developer:** Renesh Balaji Lachireddy
+🔗 [GitHub Profile](https://github.com/ReneshBalaji)
+📧 Email: renesh.balaji.lachireddy@gmail.com
