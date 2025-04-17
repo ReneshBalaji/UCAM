@@ -25,8 +25,7 @@
 
 ## ✅ Project Status
 
->   **Status:** Completed
->   Fully functional Android application.
+>   **Status:** Currently in development
 
 ---
 
